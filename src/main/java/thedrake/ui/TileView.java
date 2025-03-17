@@ -51,6 +51,7 @@ public class TileView extends Pane {
             else if(tile.hasTroop()){
                 select();
             }
+
         }
 
         private void select() {
